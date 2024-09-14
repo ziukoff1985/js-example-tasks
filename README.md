@@ -1,2 +1,2 @@
-# goit-js-hw-01
-JavaScript_Homework_#1
+JavaScript_training
+Example tasks for self-solving and consolidation of skills 
